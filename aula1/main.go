@@ -20,4 +20,4 @@ func main(){
   fmt.Println("Ola, mundo") // Println == new line no final (exemplo\n)
 }
 
-// Criando um modulo: go mod init aprendendo-go
+// Criando um modulo: go mod init aprendendo-go (vai criar um go.mod chamado aprendendo-go)
