@@ -21,5 +21,8 @@ func main(){
 }
 
 // Criando um modulo: go mod init aprendendo-go (vai criar um go.mod chamado aprendendo-go)
-// Para executar o main.go, basta digitar: go run main.go (isso vai compilar temporariamente)
-// Para compilar em um executável (binário), basta digitar: go build .
+// Para executar o main.go, basta digitar:
+// go run main.go (isso vai compilar temporariamente)
+// Para compilar em um executável (binário), basta digitar:
+// go build .  OU
+// go build main.go
