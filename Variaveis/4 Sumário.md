@@ -18,3 +18,9 @@
 ### - letra minúscula primeira letra no escopo do package
 ### - letra maiúscula primeira letra para exportar
 ### - sem escopo privado
+
+<hr>
+
+## 5- Nomeando convenções (Naming Conventions) <br>
+### - Pascal ou camelCase
+#### - Capitalizar acronomos (siglas), (HTTP, URL, DNS...)
