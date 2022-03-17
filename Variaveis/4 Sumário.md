@@ -24,3 +24,9 @@
 ## 5- Nomeando convenções (Naming Conventions) <br>
 ### - Pascal ou camelCase
 #### - Capitalizar acronomos (siglas), (HTTP, URL, DNS...)
+
+<hr>
+
+## 6- Conversões de Tipos <br>
+### - destinationType(variável)
+### - use `strconv` package para strings
