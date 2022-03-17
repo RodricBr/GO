@@ -29,4 +29,4 @@
 
 ## 6- Conversões de Tipos <br>
 ### - destinationType(variável)
-### - use `strconv` package para strings
+### - usando `strconv` package(pacote/livraria...) para strings
