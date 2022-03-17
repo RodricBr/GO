@@ -6,7 +6,7 @@
 
 <hr>
 
-## 2- Não podemos redeclarar variáveis, mas podemos "sombrea-las" (shadow) <br>
+## 2- Não podemos redeclarar variáveis, mas podemos "sombrea-las" (shadowing) <br>
 
 <hr>
 
