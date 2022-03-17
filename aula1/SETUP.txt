@@ -6,4 +6,4 @@
 [2] Setup:
  [1.1] Se você baixou o diretório GO na localização padrão (/usr/local/go/),
        evitar ao máximo adicionar a variável GOROOT se outras versões golang existem na máquina!
- [1.2] 
+ [1.2] O GOPATH default será /home/usuário/go
