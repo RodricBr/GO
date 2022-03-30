@@ -41,6 +41,12 @@
    - Adição, subtração, multiplicação, divisão
  
  + Números complexos
+   - Valor zero é (0+0i)
+   - Versões de 64 e 128 bit
+ + Funções built-in
+   - complex --> Faz números complexos de dois floats
+   - real    --> Pega a parte real como float
+   - imag    --> Pega a parte imaginária como float
 
 -------------------------------------------------------------
 
