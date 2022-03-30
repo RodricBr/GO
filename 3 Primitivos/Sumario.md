@@ -28,6 +28,18 @@
  + Não se pode misturar tipos da mesma familia (uint16 + uint32 = erro)
 
  + Floating point (float)
+   - Segue o padrão IEEE-754
+   - Valor zero é 0
+   - Versões de 32 e 64 bit
+
+ + Literal style
+   - Decimal (1.33)
+   - Exponencial (13e37 OU 1E37)
+   - Misturado (13.3e37)
+
+ + Operações aritiméticas
+   - Adição, subtração, multiplicação, divisão
+ 
  + Números complexos
 
 -------------------------------------------------------------
