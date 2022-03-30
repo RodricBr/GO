@@ -25,7 +25,8 @@
 
  + Valor zero é 0
 
- + Não se pode misturar tipos da mesma familia (uint16 + uint32 = erro)
+ + Não se pode misturar tipos da mesma familia:
+   (uint16 + uint32 = erro)
 
  + Floating point (float)
    - Segue o padrão IEEE-754
@@ -47,7 +48,11 @@
      - complex --> Faz números complexos de dois floats
      - real    --> Pega a parte real como float
      - imag    --> Pega a parte imaginária como float
- + Strings
+
+-------------------------------------------------------------
+
+## 3 - Tipos de textos 
++ Strings
    - UTF-8
    - Imutável
    - Pode ser concatenada usando o operador (+)
@@ -58,9 +63,5 @@
    - Alias para int32
    + Métodos especiais normalmente precisam processar
      - e.g: strings.Reader#ReadRune
-
--------------------------------------------------------------
-
-## 3 - Tipos de textos 
 ```
 
