@@ -32,3 +32,4 @@
 6- Conversões de Tipos <br>
   + DestinationType(variável)
   + Usando `strconv` package(pacote/livraria...) para strings
+```
