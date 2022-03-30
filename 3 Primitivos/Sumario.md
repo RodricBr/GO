@@ -43,10 +43,20 @@
  + Números complexos
    - Valor zero é (0+0i)
    - Versões de 64 e 128 bit
- + Funções built-in
-   - complex --> Faz números complexos de dois floats
-   - real    --> Pega a parte real como float
-   - imag    --> Pega a parte imaginária como float
+   + Funções built-in
+     - complex --> Faz números complexos de dois floats
+     - real    --> Pega a parte real como float
+     - imag    --> Pega a parte imaginária como float
+   - UTF-8
+   - Imutável
+   - Pode ser concatenada usando o operador (+)
+   - Pode ser convertida para []byte
+
+   + Runa
+     - UTF-32
+     - Alias para int32
+     + Métodos especiais normalmente precisam processar
+       - e.g: strings.Reader#ReadRune
 
 -------------------------------------------------------------
 
