@@ -51,17 +51,17 @@
 
 -------------------------------------------------------------
 
-## 3 - Tipos de textos 
-+ Strings
-   - UTF-8
-   - Imutável
-   - Pode ser concatenada usando o operador (+)
-   - Pode ser convertida para []byte
+3 - Tipos de textos 
+  + Strings
+    - UTF-8
+    - Imutável
+    - Pode ser concatenada usando o operador (+)
+    - Pode ser convertida para []byte
 
- + Runa
-   - UTF-32
-   - Alias para int32
-   + Métodos especiais normalmente precisam processar
-     - e.g: strings.Reader#ReadRune
+  + Runa
+    - UTF-32
+    - Alias para int32
+    + Métodos especiais normalmente precisam processar
+      - e.g: strings.Reader#ReadRune
 ```
 
