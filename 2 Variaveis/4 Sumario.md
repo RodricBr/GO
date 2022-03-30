@@ -1,32 +1,34 @@
 # Sumário <br>
 
-## 1- Declaração de variáveis <br>
-### - var foo int
-### - foo := 42
+```markdown
+1- Declaração de variáveis
+  + var foo int
+  + foo := 42
 
-<hr>
+-------------------------------------------------------------
 
-## 2- Não podemos redeclarar variáveis, mas podemos "sombrea-las" (shadowing) <br>
+2- Não podemos redeclarar variáveis,
+   mas podemos "sombrea-las" (shadowing)
 
-<hr>
+-------------------------------------------------------------
 
-## 3- Todas as variáveis com valores setados devem ser usadas <br>
+3- Todas as variáveis com valores setados devem ser usadas
 
-<hr>
+-------------------------------------------------------------
 
-## 4- Visibilidade <br>
-### - letra minúscula primeira letra no escopo do package
-### - letra maiúscula primeira letra para exportar
-### - sem escopo privado
+4- Visibilidade <br>
+  + Letra minúscula primeira letra no escopo do package
+  + Letra maiúscula primeira letra para exportar
+  + Sem escopo privado
 
-<hr>
+-------------------------------------------------------------
 
-## 5- Nomeando convenções (Naming Conventions) <br>
-### - Pascal ou camelCase
-#### - Capitalizar acronomos (siglas), (HTTP, URL, DNS...)
+5- Nomeando convenções (Naming Conventions) <br>
+  + Pascal ou camelCase
+  + Capitalizar acronomos (siglas), (HTTP, URL, DNS...)
 
-<hr>
+-------------------------------------------------------------
 
-## 6- Conversões de Tipos <br>
-### - destinationType(variável)
-### - usando `strconv` package(pacote/livraria...) para strings
+6- Conversões de Tipos <br>
+  + DestinationType(variável)
+  + Usando `strconv` package(pacote/livraria...) para strings
