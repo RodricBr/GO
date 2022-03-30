@@ -17,6 +17,8 @@
  + Operadores aritiméticos
    - Adição, subtração, multiplicação, divisão e
    - resto de divisão
+ + Operadores bit-wise
+   - And, or, xor, not
  + Floating point (float)
  + Números complexos
 
