@@ -9,9 +9,14 @@
 -------------------------------------------------------------
 
 2- Tipos numérios
- - Inteiro (int)
+ - Integer (int)
    - Tipo int tem um valor variante, mas um mínimo de 32 bits
    - 8 bit (int8) e 64 bit (int64)
+ - Unsigned Integer (uint)
+   - 8 bit (byte e uint8) e 32 bit (uint32)
+ - Operadores aritiméticos
+   - Adição, subtração, multiplicação, divisão e
+   - resto de divisão
  - Floating point (float)
  - Números complexos
 
