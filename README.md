@@ -3,8 +3,7 @@
 ```markdown
 # Go learning path
 
-1- Primórdios
-  + Princípios do aprendizado, incluindo instalação e setup
+x := "youtu.be/YS4e4q9oBaU"
+fmt.Printf("From -> %v", x)
 
-2-
 ```
