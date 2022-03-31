@@ -2,4 +2,9 @@
 
 ```markdown
 # Go learning path
+
+1- Primórdios
+  + Princípios do aprendizado, incluindo instalação e setup
+
+2-
 ```
